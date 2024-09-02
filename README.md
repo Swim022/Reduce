@@ -1,0 +1,1 @@
+reduce javascript functions
